@@ -1,0 +1,7 @@
+Put your own logo.png inside public/
+
+Required path:
+DYNEX-STATUS-FINAL/public/logo.png
+
+Recommended: PNG, square (your 1254x1254 image is fine).
+If you replace logo.png after deploying, refresh with Ctrl+F5.
